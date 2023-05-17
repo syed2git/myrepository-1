@@ -1,3 +1,3 @@
-var a= 80
-var b= 80
-var c= 100
+a = 1
+b = a * 2
+print b
