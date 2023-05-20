@@ -1,5 +1,8 @@
-var a= 80
-var b= 80
-var c= 90
-var d= 1000
-var e = 100
+var a =80
+<<<<<<< HEAD
+var b= 90
+var c= 56
+a = b + c
+=======
+var b = 78
+>>>>>>> d88095d (new var added in script.js)
